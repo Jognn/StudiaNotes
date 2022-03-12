@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "5b881e8548e6e786",
+    "type": "split",
+    "children": [
+      {
+        "id": "00991f9d10d7151a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "de8acdeb8d7fa957"
+      },
+      {
+        "id": "be1a001262cf57c7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "de8acdeb8d7fa957"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03329f72a320ef71",
+    "type": "split",
+    "children": [
+      {
+        "id": "767f5b18585587dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f07da1411b6b2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0eaf7e82a88b349b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0524df73c4488c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "469909379375408f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a1b11c771f0dd27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "00991f9d10d7151a",
+  "lastOpenFiles": [
+    "WUS/Untitled.md",
+    "WUS/Organizacja.md",
+    "PiS/Untitled.md",
+    "WUS/Typy infrastruktury/Technologie.md",
+    "WUS/Pasted image 20220312134350.png",
+    "WUS/Wykład 1/Enterprise.md",
+    "WUS/Wykład 1/IaaS.md",
+    "WUS/Typy infrastruktury/Podział odpowiedzialności.md",
+    "WUS/Wykład 1/Pasted image 20220312131128.png",
+    "WUS/Wykład 1/Typy infrastruktur.md"
+  ]
+}
