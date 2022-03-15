@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4de27f82afc3a62f",
+        "id": "140f06aa96a405a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "140f06aa96a405a4",
+        "id": "7c2093ac8ce65820",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Links.md",
+            "file": "Wymagania.md",
             "mode": "preview"
           }
         }
@@ -100,11 +100,13 @@
   "active": "140f06aa96a405a4",
   "lastOpenFiles": [
     "Links.md",
-    "Fog Computing.md",
-    "Mobile Cloud Computing.md",
     "IoT Appliciations.md",
-    "Edge Computing.md",
+    "Mobile Cloud Computing.md",
+    "Wymagania.md",
+    "Wymagania.png",
     "Cloud-Edge Orchestration.md",
+    "Edge Computing.md",
+    "Fog Computing.md",
     "Edge Cloud.md",
     "Pasted image 20220314213826.png"
   ]
