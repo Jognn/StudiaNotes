@@ -1,5 +1,5 @@
 ## Podział odpowiedzialności
-![[Pasted image 20220312134350.png|{width=20%}]]
+![[Modele Iaas-PaaS-SaaS.png|{width=20%}]]
 
 
 ### On premise
