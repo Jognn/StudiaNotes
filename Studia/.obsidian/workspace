@@ -7,8 +7,22 @@
         "id": "3092e1c27494e5b8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "WUS/Jenkins file.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "32fdc2cd13665bfa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WUS/Jenkins file.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WUS/Jenkins file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +99,15 @@
   },
   "active": "3092e1c27494e5b8",
   "lastOpenFiles": [
-    "Praca inżynierska/European links.md",
-    "CI-CD.md",
-    "PiS/Nexus.md",
-    "PiS/Gradle.md",
-    "PiS/Architektury/Patterny/CQRS.md",
-    "WUS/Typy infrastruktury/Technologie.md",
-    "PiS/Architektury/Patterny/Asynchronous Messaging.md",
-    "WUS/Typy infrastruktury/Podział odpowiedzialności.md",
+    "WUS/Jenkins file.md",
+    "Jenkins-declarable-envs.png",
     "WUS/Organizacja.md",
-    "WUS/Devops.md"
+    "WUS/Devops.md",
+    "WUS/Typy infrastruktury/Technologie.md",
+    "Pasted image 20220313163804.png",
+    "Pasted image 20220314193433.png",
+    "Pasted image 20220314193651.png",
+    "WUS/Typy infrastruktury/Obrazy/Jenkinsfile-declarative.png",
+    "Praca inżynierska/European links.md"
   ]
 }
