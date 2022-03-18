@@ -1,45 +1,29 @@
 {
   "main": {
-    "id": "a64b24ae68fbac8e",
+    "id": "4a1ef3b9be7187b4",
     "type": "split",
     "children": [
       {
-        "id": "140f06aa96a405a4",
+        "id": "8648df7c3867663a",
         "type": "leaf",
-        "dimension": 52.636054421768705,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Temp.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7c2093ac8ce65820",
-        "type": "leaf",
-        "dimension": 47.363945578231295,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Wymagania.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2af989fa9f36564f",
+    "id": "405cfb67a674e6d8",
     "type": "split",
     "children": [
       {
-        "id": "1b9d922d12b2dec6",
+        "id": "23b9faf2e7ae2698",
         "type": "tabs",
         "children": [
           {
-            "id": "f76ff695831390d4",
+            "id": "d521d1625bf2f781",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +31,7 @@
             }
           },
           {
-            "id": "4b485879bb1f8bc4",
+            "id": "5c145d97a5007eb3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,23 +49,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "58a32bd57c7891fd",
+    "id": "23e4a9ed4719b95d",
     "type": "split",
     "children": [
       {
-        "id": "f2a0638d8080fcd5",
+        "id": "ab21c7a0cbad4548",
         "type": "tabs",
         "children": [
           {
-            "id": "22506400ec32a095",
+            "id": "7aa404cee8de394e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +83,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "140f06aa96a405a4",
-  "lastOpenFiles": [
-    "Temp.md",
-    "Wymagania.md",
-    "IoT Appliciations.md",
-    "Links.md",
-    "Fog Computing.md",
-    "Wymagania.png",
-    "Wymogi.png",
-    "Edge Computing.md",
-    "Mobile Cloud Computing.md",
-    "Cloud-Edge Orchestration.md"
-  ]
+  "active": "8648df7c3867663a",
+  "lastOpenFiles": []
 }
