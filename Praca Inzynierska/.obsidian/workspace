@@ -9,13 +9,13 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Links.md",
+            "file": "Meta Operating System.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "7c2093ac8ce65820",
+        "id": "05ac1e84b3058be3",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links.md",
+                "file": "Meta Operating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "140f06aa96a405a4",
   "lastOpenFiles": [
-    "Links.md",
-    "IoT Appliciations.md",
-    "Mobile Cloud Computing.md",
+    "Meta Operating System.md",
     "Wymagania.md",
-    "Wymagania.png",
+    "Zdjecia/Pasted image 20220314213826.png",
+    "Zdjecia/Pasted image 20220315105044.png",
+    "Zdjecia/Pasted image 20220315103837.png",
+    "Links.md",
     "Cloud-Edge Orchestration.md",
-    "Edge Computing.md",
     "Fog Computing.md",
-    "Edge Cloud.md",
-    "Pasted image 20220314213826.png"
+    "IoT Appliciations.md",
+    "Zdjecia/Wymagania.png"
   ]
 }

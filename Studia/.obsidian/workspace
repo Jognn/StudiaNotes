@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3092e1c27494e5b8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "WUS/Jenkins file.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "32fdc2cd13665bfa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WUS/Jenkins file.md",
-            "mode": "preview"
+            "file": "PiS/TDD/TDD.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203
   },
   "right": {
     "id": "0524df73c4488c99",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WUS/Jenkins file.md",
+                "file": "PiS/TDD/TDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3092e1c27494e5b8",
+  "active": "32fdc2cd13665bfa",
   "lastOpenFiles": [
+    "PiS/TDD/TDD.md",
+    "PiS/TDD/Waterfall.md",
+    "PiS/TDD/Piramida testowa.md",
+    "PiS/TDD/Feedback Loop.md",
+    "PiS/Architektury/Rodzaje/Monolit.md",
+    "Waterfall.png",
     "WUS/Jenkins file.md",
-    "Jenkins-declarable-envs.png",
-    "WUS/Organizacja.md",
-    "WUS/Devops.md",
-    "WUS/Typy infrastruktury/Technologie.md",
-    "Pasted image 20220313163804.png",
-    "Pasted image 20220314193433.png",
-    "Pasted image 20220314193651.png",
-    "WUS/Typy infrastruktury/Obrazy/Jenkinsfile-declarative.png",
-    "Praca inżynierska/European links.md"
+    "PiS/TDD/Agile.md",
+    "PiS/TDD/Extreme Programming.md",
+    "PiS/Architektury/Rodzaje/Mikroserwisy.md"
   ]
 }
