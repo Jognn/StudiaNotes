@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta Operating System.md",
+            "file": "Edge Computing.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta Operating System.md",
+                "file": "Edge Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "140f06aa96a405a4",
   "lastOpenFiles": [
+    "Edge Computing.md",
+    "Fog Computing.md",
+    "IoT Appliciations.md",
+    "Links.md",
     "Meta Operating System.md",
+    "Mobile Cloud Computing.md",
     "Wymagania.md",
     "Zdjecia/Pasted image 20220314213826.png",
     "Zdjecia/Pasted image 20220315105044.png",
-    "Zdjecia/Pasted image 20220315103837.png",
-    "Links.md",
-    "Cloud-Edge Orchestration.md",
-    "Fog Computing.md",
-    "IoT Appliciations.md",
-    "Zdjecia/Wymagania.png"
+    "Zdjecia/Pasted image 20220315103837.png"
   ]
 }
