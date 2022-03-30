@@ -8,8 +8,6 @@
 - Zaawansowane scrypty, duża elastyczność
 - Stosunkowo ciężki na początek
 
-
-
 ### 2) Declarative file
 ![[Jenkinsfile-declarative.png]]
 - Z góry zdefiniowana struktura
