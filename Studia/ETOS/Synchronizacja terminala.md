@@ -1,0 +1,1 @@
+Jesli by nie bylo sync
