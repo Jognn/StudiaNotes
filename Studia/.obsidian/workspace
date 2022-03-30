@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kubernetes.md",
+            "file": "ETOS/wyklad 4.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "ETOS/wyklad 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ede80ad4019b8765",
   "lastOpenFiles": [
+    "ETOS/wyklad 4.md",
+    "ETOS/TCP.md",
+    "ETOS/Synchronizacja terminala.md",
+    "ETOS/Metryki IETF.md",
+    "ETOS/Metryki ITU-T.md",
     "Kubernetes.md",
     "Jenkins-declarable-envs.png",
     "Pasted image 20220314193433.png",
     "Pasted image 20220313163804.png",
-    "Pasted image 20220314193651.png",
-    "ETOS/wyklad 4.md",
-    "ETOS/Metryki IETF.md",
-    "ETOS/TCP.md",
-    "ETOS/Metryki ITU-T.md",
-    "ETOS/Synchronizacja terminala.md"
+    "Pasted image 20220314193651.png"
   ]
 }

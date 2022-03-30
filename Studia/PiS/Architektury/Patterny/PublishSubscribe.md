@@ -1,5 +1,5 @@
 ## Pub/Sub *(Publish/Subscribe)*
-![[Pasted image 20220313163804.png]]
+![[Pub-Sub.png]]
 Jest to wzorzec opierający się na modelu publisher-subscriber, polegającym na wysyłaniu zasubskrybowanych tematów do subscriberów 
 
 **Przykłady:**

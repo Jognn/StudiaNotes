@@ -1,4 +1,4 @@
-## Wyklad 4 (notki)
+	## Wyklad 4 (notki)
 IPDV - IP Packet Delay Variation
 IPER - 
 IPPT -IP Packet rate

@@ -6,24 +6,11 @@
       {
         "id": "140f06aa96a405a4",
         "type": "leaf",
-        "dimension": 52.636054421768705,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Temp.md",
+            "file": "Links.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7c2093ac8ce65820",
-        "type": "leaf",
-        "dimension": 47.363945578231295,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Wymagania.md",
-            "mode": "preview"
           }
         }
       }
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +88,15 @@
   },
   "active": "140f06aa96a405a4",
   "lastOpenFiles": [
-    "Temp.md",
-    "Wymagania.md",
-    "IoT Appliciations.md",
     "Links.md",
-    "Fog Computing.md",
-    "Wymagania.png",
-    "Wymogi.png",
-    "Edge Computing.md",
     "Mobile Cloud Computing.md",
-    "Cloud-Edge Orchestration.md"
+    "Wymagania.md",
+    "Temp.md",
+    "Fog Computing.md",
+    "IoT Appliciations.md",
+    "Cloud-Edge Orchestration.md",
+    "Edge Computing.md",
+    "Meta Operating System.md",
+    "Zdjecia/Pasted image 20220314213826.png"
   ]
 }
