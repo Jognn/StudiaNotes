@@ -9,3 +9,9 @@ umożliwiając przy tym zachowanie ciągłości Cloud-Edge-IoT. Powinien on bra�
 
 Rozwinięcie takiego systemu umożliwi sprostanie nowym wymaganiom nowoczesnych aplikacji
 
+
+**Przykłady Aplikacji korzystających z zalet systemu meta operacyjnego:**
+
+
+
+

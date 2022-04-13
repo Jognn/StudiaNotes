@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Links.md",
-            "mode": "source"
+            "file": "Inteligentny samochód.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links.md",
+                "file": "Inteligentny samochód.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "140f06aa96a405a4",
   "lastOpenFiles": [
-    "Links.md",
-    "Mobile Cloud Computing.md",
-    "Wymagania.md",
-    "Temp.md",
-    "Fog Computing.md",
+    "Inteligentny samochód.md",
     "IoT Appliciations.md",
-    "Cloud-Edge Orchestration.md",
-    "Edge Computing.md",
+    "Links.md",
     "Meta Operating System.md",
-    "Zdjecia/Pasted image 20220314213826.png"
+    "Mobile Cloud Computing.md",
+    "Temp.md",
+    "Wymagania.md",
+    "Edge Computing.md",
+    "Fog Computing.md",
+    "Cloud-Edge Orchestration.md"
   ]
 }
