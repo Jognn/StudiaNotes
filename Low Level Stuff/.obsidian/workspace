@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "577b0e76a68f4295",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c033c6c798fd854",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Interrupts.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec249215b5d451f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "19cb305192454555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61276198b425b190",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9bf00d71038cc28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c03ab65cd86888a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba75b9df00693e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aada3ebaf39c46d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interrupts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4c033c6c798fd854",
+  "lastOpenFiles": [
+    "Interrupts.md",
+    "Assembly x86.md",
+    "Installing QEMU.md",
+    "Os-tutorial-github.md",
+    "Obrazy/Instrukcja_int.png",
+    "BIOS.md",
+    "Pasted image 20220415054523.png.md",
+    "Pasted image 20220415054523.png",
+    "x86.md"
+  ]
+}
