@@ -20,7 +20,7 @@ Jego zadaniem jest zarządzanie danym clustrem
 <br>
 
 ### Cykl życia Poda - fazy
-![[Pasted image 20220323185539.png]]
+![[Cykla zycia poda.png]]
 
 
 **ConfigMap** - hashmapa configów 

@@ -1,0 +1,1 @@
+LINK: https://theintobooks.wordpress.com/2012/10/30/installing-qemu/

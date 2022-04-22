@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "a64b24ae68fbac8e",
+    "id": "577b0e76a68f4295",
     "type": "split",
     "children": [
       {
-        "id": "140f06aa96a405a4",
+        "id": "4c033c6c798fd854",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inteligentny samochód.md",
+            "file": "Interrupts.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2af989fa9f36564f",
+    "id": "ec249215b5d451f6",
     "type": "split",
     "children": [
       {
-        "id": "1b9d922d12b2dec6",
+        "id": "19cb305192454555",
         "type": "tabs",
         "children": [
           {
-            "id": "f76ff695831390d4",
+            "id": "61276198b425b190",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "4b485879bb1f8bc4",
+            "id": "e9bf00d71038cc28",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "58a32bd57c7891fd",
+    "id": "c03ab65cd86888a7",
     "type": "split",
     "children": [
       {
-        "id": "f2a0638d8080fcd5",
+        "id": "ba75b9df00693e50",
         "type": "tabs",
         "children": [
           {
-            "id": "22506400ec32a095",
+            "id": "0aada3ebaf39c46d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligentny samochód.md",
+                "file": "Interrupts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "140f06aa96a405a4",
+  "active": "4c033c6c798fd854",
   "lastOpenFiles": [
-    "Inteligentny samochód.md",
-    "IoT Appliciations.md",
-    "Links.md",
-    "Meta Operating System.md",
-    "Mobile Cloud Computing.md",
-    "Temp.md",
-    "Wymagania.md",
-    "Edge Computing.md",
-    "Fog Computing.md",
-    "Cloud-Edge Orchestration.md"
+    "Interrupts.md",
+    "Assembly x86.md",
+    "Installing QEMU.md",
+    "Os-tutorial-github.md",
+    "Obrazy/Instrukcja_int.png",
+    "BIOS.md",
+    "Pasted image 20220415054523.png.md",
+    "Pasted image 20220415054523.png",
+    "x86.md"
   ]
 }
