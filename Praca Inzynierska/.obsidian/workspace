@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inteligentny samochód.md",
+            "file": "Links.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligentny samochód.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "140f06aa96a405a4",
   "lastOpenFiles": [
+    "Links.md",
     "Inteligentny samochód.md",
     "IoT Appliciations.md",
-    "Links.md",
     "Meta Operating System.md",
     "Mobile Cloud Computing.md",
     "Temp.md",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interrupts.md",
+            "file": "C language.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interrupts.md",
+                "file": "C language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,13 @@
   },
   "active": "4c033c6c798fd854",
   "lastOpenFiles": [
-    "Interrupts.md",
+    "C language.md",
     "Assembly x86.md",
+    "BIOS.md",
     "Installing QEMU.md",
+    "Interrupts.md",
     "Os-tutorial-github.md",
     "Obrazy/Instrukcja_int.png",
-    "BIOS.md",
     "Pasted image 20220415054523.png.md",
     "Pasted image 20220415054523.png",
     "x86.md"

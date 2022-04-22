@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WUS/Docker.md",
+            "file": "ETOS/wyklad 4.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WUS/Docker.md",
+                "file": "ETOS/wyklad 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e6b63d532f9281fb",
   "lastOpenFiles": [
+    "ETOS/wyklad 4.md",
+    "PiS/Wyklad 7 - Spring.md",
+    "PiS/Obrazy/Spring Implementacja pamieci cache w.png",
+    "PiS/Obrazy/Pamiec Cache konfiguracja.png",
+    "PiS/Wyklad XD.md",
+    "PiS/Obrazy/Spring Pamiec Cache.png",
+    "PiS/Obrazy/Moduly Springa.png",
+    "PiS/Obrazy/Dependency Injcetion.png",
     "WUS/Docker.md",
-    "WUS/Dockerfile.md",
-    "WUS/Kubernetes.md",
-    "WUS/Kolokwium 1.md",
-    "WUS/Obrazy/Kolos 1 cz2.png",
-    "WUS/Obrazy/Docker Architektura.png",
-    "WUS/Obrazy/Kolos 1 cz1.png",
-    "WUS/Untitled 1.md",
-    "WUS/Devops.md",
-    "WUS/Jenkins file.md"
+    "WUS/Dockerfile.md"
   ]
 }
