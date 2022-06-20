@@ -90,14 +90,14 @@
   "active": "140f06aa96a405a4",
   "lastOpenFiles": [
     "Links.md",
-    "Inteligentny samochód.md",
-    "IoT Appliciations.md",
+    "Cloud-Edge Orchestration.md",
+    "K3S_architektura_HA.png",
     "Meta Operating System.md",
     "Mobile Cloud Computing.md",
-    "Temp.md",
-    "Wymagania.md",
     "Edge Computing.md",
     "Fog Computing.md",
-    "Cloud-Edge Orchestration.md"
+    "Inteligentny samochód.md",
+    "IoT Appliciations.md",
+    "K3s.md"
   ]
 }

@@ -9,3 +9,20 @@
 - *Orchestration from the Cloud to the Edge* https://link.springer.com/chapter/10.1007/978-3-030-41110-7_4
 - *AWS GreenGas*  https://aws.amazon.com/greengrass/features/?pg=ln&sec=hs
 - https://internetofthingsagenda.techtarget.com/tip/IoT-platforms-How-they-work-and-how-to-choose-one
+
+
+EDGE - https://www.infracloud.io/blogs/edgex-foundry-k3s-part-1/
+Cloudify - https://cloudify.co/blog/birth-of-edge-orchestrator-cloudify/
+file:///C:/Users/Jogn/Downloads/Edge_ONAP_WG_v7.pdf
+
+
+
+RANCHER-OS - uproszczony os tylko do uzywania k3s https://www.youtube.com/watch?v=WYPd7i15XOg&ab_channel=RancherLabs
+
+REAL TIME ORCHESTRATION - http://www.es.mdh.se/pdf_publications/6244.pdf
+
+hierarchical scheduling - http://www.diva-portal.org/smash/get/diva2:37888/FULLTEXT01.pdf
+
+RT Linux - https://students.mimuw.edu.pl/SO/Projekt03-04/temat4-g6/index3.html
+
+https://repositorio-aberto.up.pt/bitstream/10216/133279/2/453080.pdf

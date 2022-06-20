@@ -1,4 +1,4 @@
-	## Wyklad 4 (notki)
+## Wyklad 4 (notki)
 IPDV - IP Packet Delay Variation
 IPER - 
 IPPT -IP Packet rate
@@ -13,8 +13,8 @@ Jak tracimy pakiety:
 
 ### Metryki związane z ruchem
 1) Macierz rozpływu ruchu
-2) Dostępna przepływność dla łącza: AvB = C_i(1-r_i)
-3) Dostępna przepływność ścieżki: AvB = min{ C_i ( 1 - r_i )}
+2) Dostępna przepływność dla łącza: AvB = $C_i(1-r_i)
+3) Dostępna przepływność ścieżki: AvB = $min{C_i ( 1 - r_i )}$
 narrowlink - łącze o największej przepływności  (przepustowość)
 tight link - łącze o najmniejszej przepływność
 
