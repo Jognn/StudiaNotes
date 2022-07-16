@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++ stuff/Static and Dynamic Libraries.md",
+            "file": "C++ stuff/Copy constructor-assignment.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ stuff/Static and Dynamic Libraries.md",
+                "file": "C++ stuff/Copy constructor-assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4c033c6c798fd854",
   "lastOpenFiles": [
+    "C++ stuff/Move constructor.md",
+    "C++ stuff/Templates.md",
+    "C++ stuff/Extern C.md",
     "C++ stuff/Static and Dynamic Libraries.md",
-    "C++ stuff/Friend Classes.md",
-    "C++ stuff/Multiple Include Optimization.md",
-    "Assembly x86.md",
-    "BIOS.md",
-    "C++ stuff/Scope resolution.md",
+    "C++ stuff/C language.md",
+    "C++ stuff/Classes.md",
+    "[.md",
+    "Obrazy/Pasted image 20220706215456.png",
     "Vim keyboard shortcuts.md",
-    "Untitled 1.md",
-    "C language.md",
-    "Installing QEMU.md"
+    "Os-tutorial-github.md"
   ]
 }
