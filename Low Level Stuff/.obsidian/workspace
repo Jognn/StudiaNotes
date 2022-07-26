@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4c033c6c798fd854",
+        "id": "3e0a761d5a350c81",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++ stuff/Copy constructor-assignment.md",
+            "file": "OS Development Guides/Understanding Linux Kernel Book.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ stuff/Copy constructor-assignment.md",
+                "file": "OS Development Guides/Understanding Linux Kernel Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c033c6c798fd854",
+  "active": "3e0a761d5a350c81",
   "lastOpenFiles": [
-    "C++ stuff/Move constructor.md",
-    "C++ stuff/Templates.md",
-    "C++ stuff/Extern C.md",
-    "C++ stuff/Static and Dynamic Libraries.md",
-    "C++ stuff/C language.md",
+    "Assembly x86.md",
+    "Device Controllers.md",
+    "DMA vs Memory-mapped IO.md",
+    "BIOS.md",
     "C++ stuff/Classes.md",
-    "[.md",
-    "Obrazy/Pasted image 20220706215456.png",
-    "Vim keyboard shortcuts.md",
-    "Os-tutorial-github.md"
+    "C language memory layout.md",
+    "Installing QEMU.md",
+    "Interrupts.md",
+    "ELF.md",
+    "GCC.md"
   ]
 }
