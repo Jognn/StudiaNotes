@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OS Development Guides/Understanding Linux Kernel Book.md",
+            "file": "Memory Mapping and DMA.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS Development Guides/Understanding Linux Kernel Book.md",
+                "file": "Memory Mapping and DMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "3e0a761d5a350c81",
   "lastOpenFiles": [
+    "OS Development Guides/Understanding Linux Kernel Book.md",
     "Assembly x86.md",
     "Device Controllers.md",
     "DMA vs Memory-mapped IO.md",
@@ -97,7 +98,6 @@
     "C language memory layout.md",
     "Installing QEMU.md",
     "Interrupts.md",
-    "ELF.md",
-    "GCC.md"
+    "ELF.md"
   ]
 }
